@@ -1,6 +1,6 @@
 module github.com/projectdiscovery/httpx
 
-go 1.20
+go 1.24
 
 require (
 	github.com/akrylysov/pogreb v0.10.1 // indirect
@@ -86,7 +86,7 @@ require (
 	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kataras/jwt v0.1.8 // indirect
-	github.com/klauspost/compress v1.15.15 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kljensen/snowball v0.8.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
